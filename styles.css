@@ -1,0 +1,10 @@
+/** Place styles here **/
+body {font-family: "Open Sans"; font-weight: 300; color: #444}
+.box {float: left; 280px; margin-top: 29px; margin-left:29px; margin-right: 55px; text-align: center}
+.subbox1 {padding: 15px; margin-top: -5px; border-left:2px solid #f2f4f4; border-right:2px solid #f2f4f4}
+.subbox2 {height: 48px; border: 2px solid #f2f4f4; border-radius: 0px 0px 5px 5px}
+.name {font-size: 26px}
+.id {font-size: 12px}
+.info {width: 50%; float:left; font-size: 12px; padding-top:6px}
+.bold {font-weight: 400}
+
